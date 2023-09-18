@@ -1,3 +1,2 @@
-# 4uhost-html
-4uhost-html
+# 4uhost
 Live preview https://maruf-islam-mim.github.io/4uhost-html/
